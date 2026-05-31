@@ -1,213 +1,229 @@
 <div align="center">
 
-# Hi, I'm Rani Kumari 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:58a6ff,100:bc8cff&height=200&section=header&text=Rani%20Kumari&fontSize=52&fontColor=e6edf3&fontAlignY=38&desc=AI%20%26%20Full-Stack%20Developer%20%7C%20Computer%20Science%20Engineer&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
 
-### AI & Full-Stack Developer · Computer Science Engineer · Builder of Impactful Tech
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+production-grade+AI+tools+%F0%9F%A4%96;Full-Stack+Developer+%7C+Python+%7C+React+%7C+Flask;RAG+Pipelines+%7C+Agentic+AI+%7C+n8n+Automation;Making+tech+accessible+for+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
-*B.Tech CS @ Sitare University · Dean's List · 100% Sitare Foundation Scholar*
+<br>
 
-[![Email](https://img.shields.io/badge/Email-ranikumari126023%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ranikumari126023@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rani%20Kumari-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Rani553-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rani553)
-![Location](https://img.shields.io/badge/Lucknow%2C%20Uttar%20Pradesh%2C%20India-FF6B35?style=flat&logo=googlemaps&logoColor=white)
+[![Email](https://img.shields.io/badge/Gmail-ranikumari126023-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranikumari126023@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Rani553-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rani553)
+[![Location](https://img.shields.io/badge/📍-Lucknow%2C%20India-30363d?style=for-the-badge)](https://github.com/Rani553)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Rani553&color=58a6ff&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/Rani553?label=Followers&style=flat-square&color=bc8cff)](https://github.com/Rani553?tab=followers)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🧠 About Me
 
-I am a Computer Science Engineering student at **Sitare University** (GPA: 8.14 | Dean's List | 100% Sitare Foundation Scholar), specializing in **full-stack development**, **AI/ML systems**, and **agentic automation**.
+```python
+class RaniKumari:
+    name       = "Rani Kumari"
+    university = "Sitare University with SRMU, Lucknow"
+    degree     = "B.Tech Computer Science (2024–2027)"
+    gpa        = 8.14
+    status     = ["Dean's List", "100% Sitare Foundation Scholar"]
 
-I build production-grade tools — from AI-powered legal chatbots to zero-cost business automation systems — with a mission to make technology **accessible and impactful** for everyday people across India.
+    skills = {
+        "languages"  : ["Python", "Java", "JavaScript", "TypeScript", "C"],
+        "web"        : ["React", "Flask", "Django", "HTML5", "CSS3"],
+        "databases"  : ["PostgreSQL", "pgvector", "MongoDB", "MySQL"],
+        "ai_ml"      : ["RAG", "Agentic AI", "n8n", "SentenceTransformer",
+                        "Scikit-learn", "Google Gemini", "Claude AI"],
+        "devops"     : ["Docker", "AWS", "Git", "Linux", "Render"],
+        "data"       : ["Pandas", "NumPy", "BeautifulSoup", "Chart.js"]
+    }
 
-- 🔭 Currently building: **Agentic AI workflows** and **RAG-powered applications**
-- 🌱 Exploring: **LLM fine-tuning · pgvector · Low-code AI automation with n8n**
-- 💡 Mission: Build tech that solves **real problems** for underserved communities in India
-- 🎯 Open to: **Software Engineering · AI/ML · Full-Stack · Data Science roles**
+    mission = "Make AI accessible & impactful for everyday people in India"
+    open_to = ["Software Engineering", "AI/ML", "Full-Stack", "Data Science"]
+```
 
 ---
 
-## 🛠️ Technical Skills
+## 📊 Profile Insights
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+<div align="center">
 
-### Web Technologies
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+| 🔢 Repos | ⭐ GPA | 🎓 Scholar | 🤖 AI Projects | 🏆 Badges |
+|:---:|:---:|:---:|:---:|:---:|
+| 12 | 8.14 | 100% Sitare | 4+ Production | Pull Shark · YOLO |
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat&logo=postgresql&logoColor=white)
+</div>
 
-### AI / ML & Agentic Tools
-![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=flat)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20Pipelines-6C3483?style=flat)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=flat)
+---
 
-### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
+## 🛠️ Tech Stack
 
-### Data & Visualization
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+**Web & Frameworks**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**AI / ML & Agentic**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude%20AI-D97757?style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Pipelines-6C3483?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-FF6F00?style=for-the-badge)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 [Business Review Alert Automation](https://github.com/Rani553/Business-Review-Alert-Automation)
-> *n8n · Google Gemini AI · Telegram API · Python · Agentic AI · Prompt Engineering*
+<div align="center">
 
-A **zero-cost reputation monitoring system** for small Indian businesses — replacing enterprise tools costing **₹10,000+/month** with a fully automated free alternative.
+| Project | Stack | Impact |
+|---------|-------|--------|
+| 🤖 [**Business Review Alert Automation**](https://github.com/Rani553/Business-Review-Alert-Automation) | n8n · Gemini AI · Telegram · Python | Saves ₹10,000+/month |
+| ⚖️ [**LawSaarthi — AI Legal ChatBot**](https://github.com/Rani553/LawSaarthi) | Flask · React · pgvector · RAG | Sub-second legal search |
+| 📊 [**StackTrends Analytics Dashboard**](https://github.com/Rani553/StackOverflow-Programming-Trends-Analyzer) | Flask · Pandas · Chart.js · BeautifulSoup | Live on GitHub |
+| 🔗 [**LinkedIn Graph Intelligence System**](https://github.com/Rani553/LinkedIn-Connection-Graph-Intelligence-System) | Python · Jupyter · Graph Theory | Network analytics |
+| 🔤 [**BLOOP Language Interpreter**](https://github.com/Rani553/BLOOP-Interpreter) | Java · Compiler Design · AST | Full compiler pipeline |
+| 🏛️ [**Case Information Portal**](https://github.com/Rani553/Case-Information-Portal) | Flask · Pandas · Chart.js | Judicial data analytics |
 
-- Automated full pipeline: Google Reviews scraping → AI sentiment classification → instant Telegram alerts with ready-to-use reply suggestions
-- Fully agentic, event-driven workflow requiring **zero manual effort** post-deployment
-- Demonstrates real-world expertise in **low-code AI automation** and business problem solving
+</div>
 
----
+<br>
 
-### ⚖️ [LawSaarthi — AI Legal Assistance ChatBot](https://github.com/Rani553/LawSaarthi)
-> *Python · Flask · React · TypeScript · SentenceTransformer · PostgreSQL · pgvector*
+### 🤖 Business Review Alert Automation
+> **n8n · Google Gemini AI · Telegram API · Python · Agentic AI**
 
-A **full-stack AI legal chatbot** enabling citizens to query Indian constitutional articles via natural language — making legal knowledge **freely accessible** to non-experts across India.
+> Zero-cost reputation monitoring for small Indian businesses — replacing ₹10,000+/month enterprise tools with a fully automated free alternative. Event-driven, zero manual effort post-deployment.
 
-- Semantic search powered by **SentenceTransformer + pgvector** with sub-second similarity search over a large legal corpus
-- Clean **React + TypeScript** frontend with Flask REST API backend following clean architecture principles
-- Bridges the gap between complex legal systems and everyday Indian citizens
+### ⚖️ LawSaarthi — AI Legal Assistance ChatBot
+> **Python · Flask · React · TypeScript · SentenceTransformer · PostgreSQL · pgvector**
 
----
+> Full-stack AI chatbot for querying Indian constitutional articles via natural language. Semantic search with pgvector delivers sub-second results — making legal knowledge free for all Indian citizens.
 
-### 📊 [StackTrends — Programming Language Analytics Dashboard](https://github.com/Rani553/StackOverflow-Programming-Trends-Analyzer)
-> *Python · Flask · Pandas · BeautifulSoup · Chart.js · HTML · CSS · JavaScript*
+### 📊 StackTrends — Programming Language Analytics Dashboard
+> **Python · Flask · Pandas · BeautifulSoup · Chart.js · JavaScript**
 
-A **dark-themed analytics dashboard** visualizing programming language popularity on Stack Overflow over time, with live rankings and interactive trend charts.
+> Dark-themed analytics dashboard visualizing Stack Overflow language popularity trends. Normalized trend lines, year-snapshot comparisons, animated live rankings, fully responsive.
 
-- Normalized trend lines, year-snapshot bar charts, and live rankings panel with animated progress bars
-- Sidebar filters to toggle languages, filter by year, switch between Line and Area chart modes
-- Fully responsive, professional dashboard aesthetic — **Flask backend + vanilla JS frontend**
+### 🔤 BLOOP Language Interpreter
+> **Java · Compiler Design · Lexical Analysis · Abstract Syntax Trees**
 
----
-
-### 🔗 [LinkedIn Connection Graph Intelligence System](https://github.com/Rani553/LinkedIn-Connection-Graph-Intelligence-System)
-> *Python · Jupyter Notebook · Graph Analysis · NetworkX · Data Cleaning*
-
-A **graph-based intelligence system** that maps and analyzes LinkedIn connection networks using adjacency lists and graph theory.
-
-- Cleaned and processed raw LinkedIn connection data through a multi-stage data pipeline
-- Built adjacency list and node-count representations of professional networks
-- Applied graph intelligence techniques to surface meaningful connection patterns
+> Custom programming language interpreter built from scratch in Java — covers all compiler phases: lexer, recursive-descent parser, and AST-based execution. Production-quality and fully extensible.
 
 ---
 
-### 🔤 [BLOOP Language Interpreter](https://github.com/Rani553/BLOOP-Interpreter)
-> *Java · Compiler Design · Lexical Analysis · Abstract Syntax Trees · Data Structures*
+## 📈 GitHub Stats
 
-A **custom programming language interpreter** built entirely from scratch in Java — covering all compiler phases end-to-end.
+<div align="center">
 
-- Implemented lexical analysis, recursive-descent parsing, and AST-based execution from scratch
-- Supports user-defined variables, expressions, control flow, and robust runtime error handling
-- Production-quality and fully extensible for complex, multi-statement programs
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rani553&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=bc8cff&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rani553&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=bc8cff&currStreakLabel=58a6ff"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani553&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8"/>
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rani553&theme=github-compact&bg_color=0d1117&color=58a6ff&line=bc8cff&point=c9d1d9&hide_border=true"/>
+
+</div>
 
 ---
 
-### 🏛️ [Case Information Portal](https://github.com/Rani553/Case-Information-Portal)
-> *Python · Flask · Pandas · BeautifulSoup · Chart.js*
+## 🏆 Achievements
 
-A **web portal for legal data analytics** — scraping Sikkim High Court case records and visualizing judicial trends.
+<div align="center">
 
-- Automated data cleaning and normalization pipeline; interactive Chart.js dashboards for judicial statistics
+![Trophies](https://github-profile-trophy.vercel.app/?username=Rani553&theme=algolia&no-frame=true&row=1&column=6&margin-w=8)
+
+</div>
+
+| 🥇 Achievement | Details |
+|---|---|
+| **100% Sitare Foundation Scholarship** | Full merit scholarship — Sitare University |
+| **Dean's List · GPA 8.14** | Consistent academic excellence |
+| **Pull Shark Badge** | Earned through quality pull requests |
+| **YOLO Badge** | GitHub contribution badge |
+| **Zero-Cost Innovation** | Replaced ₹10,000+/month enterprise tools for free |
+| **Legal Tech for India** | AI legal access for non-expert citizens |
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Duration | Achievement |
-|--------|-------------|----------|-------------|
-| B.Tech in Computer Science | Sitare University with SRMU, Lucknow | Aug 2024 – May 2027 | GPA: 8.14 · Dean's List · 100% Sitare Foundation Scholarship |
-
-**Key Courses:** Machine Learning · Artificial Intelligence · Advanced DSA · DBMS · OOP · Search Engine & IR
-
----
-
-## 🏆 Achievements & GitHub Badges
-
-- 🥇 **100% Sitare Foundation Scholarship** — Full merit scholarship at Sitare University
-- 📋 **Dean's List** — Consistent academic excellence (GPA: 8.14)
-- 🦈 **Pull Shark** — GitHub achievement for quality pull requests
-- ⚡ **YOLO** — GitHub achievement badge
-- 💡 **Zero-Cost Innovation** — Replaced ₹10,000+/month enterprise tools with a free AI solution
-- ⚖️ **Legal Tech for India** — Built AI tools making legal knowledge accessible to non-experts
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Rani553&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rani553&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rani553&theme=tokyonight&hide_border=true)](https://github.com/Rani553)
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-```text
-🧠  LLM Fine-tuning & RLHF
-🔗  Advanced RAG architectures
-⚙️  MLOps & Model Deployment at Scale
-🌐  Distributed Systems & Cloud Architecture
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  🎓  B.Tech in Computer Science                                  │
+│      Sitare University with SRMU · Lucknow, India               │
+│      Aug 2024 – May 2027                                         │
+│                                                                  │
+│  📋  GPA: 8.14  |  Dean's List  |  100% Sitare Foundation Scholar│
+│                                                                  │
+│  📚  Key Courses: Machine Learning · Artificial Intelligence     │
+│      Advanced DSA · DBMS · OOP · Search Engine & IR             │
+└─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 📫 Let's Connect
+## 🌱 Currently Learning
 
-I am actively looking for opportunities in **Software Engineering, AI/ML, Full-Stack Development, and Data Science** roles.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-ranikumari126023%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranikumari126023@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Rani553-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rani553)
-
-</div>
+```text
+🧠  LLM Fine-tuning & RLHF
+🔗  Advanced RAG architectures & hybrid search
+⚙️  MLOps & model deployment at scale
+🌐  Distributed systems & cloud-native architecture
+```
 
 ---
 
+## 📫 Connect With Me
+
 <div align="center">
 
-*"Building technology that is accessible, impactful, and meaningful for everyday people."*
+[![Email](https://img.shields.io/badge/Email-ranikumari126023%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranikumari126023@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Rani553-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rani553)
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rani553.Rani553)
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bc8cff,50:58a6ff,100:0d1117&height=120&section=footer&text=Building+tech+for+India+%F0%9F%87%AE%F0%9F%87%B3&fontSize=16&fontColor=8b949e&fontAlignY=65" width="100%"/>
 
 </div>
