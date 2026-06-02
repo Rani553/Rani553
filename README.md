@@ -102,7 +102,7 @@ Graph-theoretic analysis engine for LinkedIn professional networks — mapping c
 
 ---
 
-### 🔤 [BLOOP Language Interpreter](https://github.com/Rani553/BLOOP-Interpreter)
+### 🔤 [BLOOP Language Interpreter](https://github.com/Rani553/bloop-compiler-interpreter)
 Custom programming language interpreter built from scratch in Java — covering every compiler phase: lexical analysis, recursive-descent parsing, and AST-based execution. Supports user-defined variables, expressions, control flow, and robust runtime error handling.
 
 `Java` `Compiler Design` `Lexical Analysis` `AST` `OOP`
