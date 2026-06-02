@@ -88,7 +88,7 @@ Full-stack AI chatbot enabling any Indian citizen to query constitutional articl
 
 ---
 
-### 📊 [StackTrends — Analytics Dashboard](https://github.com/Rani553/StackOverflow-Programming-Trends-Analyzer)
+### 📊 [StackTrends — Analytics Dashboard](https://github.com/Rani553/stackOverflow-programming-language-trends)
 Data analytics dashboard visualising Stack Overflow programming language popularity trends. Full pipeline: scraping → cleaning → normalisation → interactive visualisations. Features animated live rankings, year-snapshot comparisons, and normalised trend lines.
 
 `Python` `Flask` `Pandas` `BeautifulSoup` `Chart.js` `JavaScript`
@@ -109,7 +109,7 @@ Custom programming language interpreter built from scratch in Java — covering 
 
 ---
 
-### 🏛️ [Case Information Portal](https://github.com/Rani553/Case-Information-Portal)
+### 🏛️ [Case Information Portal](https://github.com/pragatichauhan2207/Case_Information)
 Web portal that scrapes Sikkim High Court case records using BeautifulSoup, processes them through a Pandas cleaning pipeline, and presents interactive Chart.js dashboards for judicial trend analysis.
 
 `Python` `Flask` `Pandas` `BeautifulSoup` `Chart.js` `HTML` `CSS`
