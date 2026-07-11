@@ -19,7 +19,7 @@
 I'm a Computer Science undergraduate at **Sitare University** (B.Tech '27), specialising in **AI systems, RAG pipelines, and full-stack engineering**. I've shipped projects ranging from a zero-cost business automation system replacing ₹10,000+/month enterprise tools, to an AI legal chatbot making constitutional law accessible to every Indian citizen.
 
 - 🏆 **100% B.Tech CS Scholarship**, Sitare Foundation — Aug 2024 – Present
-- 📊 **GPA: 8.14** | Dean's List | Strong foundation in ML, AI, DSA, DBMS, and Compiler Design
+- 📊 **GPA: 8.34** | Dean's List | Strong foundation in ML, AI, DSA, DBMS, and Compiler Design
 - 🔍 Currently focused on: Advanced RAG, LLM fine-tuning, and MLOps
 - 💼 Open to **SWE, AI/ML & Full-Stack Internships** — actively applying
 
